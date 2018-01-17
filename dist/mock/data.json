@@ -1,0 +1,28 @@
+[{
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "There For You",
+        "album": "There For You",
+        "singer": "Martin Garrix/Troye Sivan",
+        "duration": 249,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "说散就散",
+        "album": "说散就散",
+        "singer": "袁娅维",
+        "duration": 242,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    }
+]

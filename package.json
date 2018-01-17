@@ -1,0 +1,28 @@
+{
+    "name": "music-2",
+    "version": "1.0.0",
+    "description": "music player",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JiangShiwei0224/music.git"
+    },
+    "keywords": [
+        "music",
+        "html5"
+    ],
+    "author": "JiangShiwei",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JiangShiwei0224/music/issues"
+    },
+    "homepage": "https://github.com/JiangShiwei0224/music#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-connect": "^5.2.0",
+        "gulp-less": "^3.4.0"
+    }
+}
